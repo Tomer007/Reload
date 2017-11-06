@@ -8,6 +8,6 @@ lets give it a try.
 
 well now we are in my own great IDE.
 
-lets try and check the first commit.
+lets try and check the first lets do conflict  commit.
 
 
